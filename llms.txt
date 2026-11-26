@@ -2,7 +2,10 @@
 
 > Oui, la formation MSU est obligatoire. Elle est obligatoire pour être agréé maître de stage des universités (MSU) et accueillir un externe, un interne ou un docteur junior (article L. 4131-6 du Code de la santé publique ; articles R. 632-1 et R. 632-28-1 du Code de l'éducation ; arrêté du 5 juillet 2024).
 
+Info MSU (info-msu.fr) est un site d'information sur le maître de stage des universités (MSU).
+
 - [La formation MSU est-elle obligatoire ?](https://info-msu.fr/)
+- [Info MSU : tout savoir sur le maître de stage des universités](https://info-msu.fr/infos-msu/)
 - [Les textes officiels](https://info-msu.fr/formation-msu-obligatoire/)
 - [Devenir MSU](https://info-msu.fr/devenir-msu/)
 - [Docteur junior](https://info-msu.fr/msu-docteur-junior/)
